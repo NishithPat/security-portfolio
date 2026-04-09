@@ -3,8 +3,7 @@
 ### Independent Web3 Security Researcher focused on securing defi protocols.
 
 - Website - [ni8mare.xyz](https://ni8mare.xyz/)
-- X - [@dkni8mare](https://x.com/dkni8mare)
-- Telegram - [@dkni8mare](https://t.me/dkni8mare)
+- Contest results - https://audits.sherlock.xyz/watson/ni8mare
 
 ## Audit Contests
 
