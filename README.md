@@ -1,6 +1,10 @@
 # ni8mare Security Portfolio
 
-Independent Web3 Security Researcher focused on securing defi protocols.
+### Independent Web3 Security Researcher focused on securing defi protocols.
+
+- Website - [ni8mare.xyz](https://ni8mare.xyz/)
+- X - [@dkni8mare](https://x.com/dkni8mare)
+- Telegram - [@dkni8mare](https://t.me/dkni8mare)
 
 ## Audit Contests
 
