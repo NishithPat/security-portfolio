@@ -4,18 +4,18 @@ Independent Web3 Security Researcher focused on securing defi protocols.
 
 ## Audit Contests
 
-| # | Platform | Protocol | Date | Payout | Findings (H/M/L) | Rank |
-|---|---|---|---|---:|---|---|
-| 1 | Cantina | infrared-contracts | Jan 2025 | $12,157 | 1/2/0 | 6th |
-| 2 | Immunefi | Plume Network Attackathon | Jul 2025 | $7,521 | 3/6/1 | 6th |
-| 3 | Code4rena | Canto Liquidity Mining | Oct 2023 | $2,934 | 0/1/0 | 2nd |
-| 4 | Immunefi | Flare - FAssets | May 2025 | $3,200 | 0/4/3 | 12th |
-| 5 | Cantina | velvet-v4 | Feb 2025 | $4,647 | 3/2/0 | 5th |
-| 6 | Sherlock | Gamma Brevis Rewarder | Oct 2024 | 131 OP | 1/0/0 | 3rd |
-| 7 | Cantina | symbioticfi-core | Sep 2024 | $3,343 | 0/2/0 | 7th |
-| 8 | Cantina | zetachain-protocol | Aug 2024 | $2,135 | 1/3/0 | 17th |
-| 9 | Code4rena | NOYA | Apr 2024 | $695 | 4/9/0 | 21st |
-| 10 | Code4rena | Predy | May 2024 | $479 | 0/5/0 | 17th |
+| # | Platform | Protocol | Date | Payout | Rank |
+|---|---|---|---|---:|---|
+| 1 | Cantina | infrared-contracts | Jan 2025 | $12,157 | 6th |
+| 2 | Immunefi | Plume Network Attackathon | Jul 2025 | $7,521 | 6th |
+| 3 | Code4rena | Canto Liquidity Mining | Oct 2023 | $2,934 | 2nd |
+| 4 | Immunefi | Flare - FAssets | May 2025 | $3,200 | 12th |
+| 5 | Cantina | velvet-v4 | Feb 2025 | $4,647 | 5th |
+| 6 | Sherlock | Gamma Brevis Rewarder | Oct 2024 | 131 OP | 3rd |
+| 7 | Cantina | symbioticfi-core | Sep 2024 | $3,343 | 7th |
+| 8 | Cantina | zetachain-protocol | Aug 2024 | $2,135 | 17th |
+| 9 | Code4rena | NOYA | Apr 2024 | $695 | 21st |
+| 10 | Code4rena | Predy | May 2024 | $479 | 17th |
 
 ## Bug Bounties
 
